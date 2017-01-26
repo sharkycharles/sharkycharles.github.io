@@ -1,0 +1,27 @@
+body{
+	background-image: url("../images/lights.jpg");
+	font-family: helvetica;
+	color:lightgray;
+	}
+	h1{
+		color:white;
+		font-family: helvetica
+	}
+	#slogan {
+		font-stretch: expanded;
+		font-weight: bold;
+		text-align: left;
+		text-transform: uppercase;
+		color: orange;
+	}
+a {color: white;}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
