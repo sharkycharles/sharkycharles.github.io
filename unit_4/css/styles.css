@@ -3,11 +3,12 @@ body{
 	background-image: url("../images/Lights.jpg");
 	background-size: cover;
 	font-family: 'Lato', sans-serif;
-	color:lightgray;
+	color: white;
 }
 h1{
 	color:white;
 	font-family: 'Exo 2', sans-serif;
+	size: 1.5em;
 }
 	#slogan {
 		font-stretch: expanded;
@@ -16,7 +17,10 @@ h1{
 		text-transform: uppercase;
 		color: orange;
 	}
-a {color: white;}
+	.badpic {
+		color: white;
+		text-align: right;
+	}
 hr { 
     display: block;
     margin-top: 0.5em;
@@ -25,6 +29,9 @@ hr {
     margin-right: auto;
     border-style: inset;
     border-width: 1px;
+}
+ul{
+	list-style-position: inside;
 }
 
 
