@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Exo+2|Lato');
 body{
-	background-image: url("../images/Lights.jpg");
+	background-image: url("../images/snowboard.jpg");
 	background-size: cover;
 	font-family: 'Lato', sans-serif;
 	color: white;
@@ -19,7 +19,7 @@ h1{
 	}
 	.badpic {
 		color: white;
-		text-align: right;
+		text-align: justify-all;
 	}
 hr { 
     display: block;
@@ -32,6 +32,7 @@ hr {
 }
 ul{
 	list-style-position: inside;
+	list-style-type: lower-alpha;
 }
 
 
