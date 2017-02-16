@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Lato');
+header {
+    background-color: white;
+    border: 1px gray solid;
+    padding: 20px;
+        }
+    nav {
+        font-family: 'Lato', sans-serif;
+        float: right;
+        }
+    .top_nav {
+        background-color: gray;
+        color: white;
+        text-decoration: none;
+        display: block;
+        float: right;
+        padding: 20px;
+        }
+    .top_nav:hover {
+        background-color: orange;
+        }
+    #slogan {
+        font-stretch: expanded;
+        font-weight: bold;
+        text-align: left;
+        text-transform: uppercase;
+        color: darkgray;
+        }
+    hr { 
+        display: block;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+        margin-left: auto;
+        margin-right: auto;
+        border-style: inset;
+        border-width: 1px;
+            }   
+    h1{
+        color:white;
+        font-family: 'Exo 2', sans-serif;
+        text-align: center;
+        background-color: orange;
+        display: block;
+        padding: 175px;
+        border: 0px;
+        margin: 0px:
+        }
+    
+#actionbuts {
+    background-color: white;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    }
+    #leftselector {
+        background-color: gray;
+        color: white;
+        text-decoration: none;
+        display: block;
+        float: left;
+        padding: 30px;
+        width: 45.35%;
+        text-align: center;
+        border: 0px;
+        margin: 0px:
+    }
+    #rightselector {
+        background-color: gray;
+        color: white;
+        text-decoration: none;
+        display: block;
+        float: right;
+        padding: 30px;
+        width: 45.35%;
+        text-align: center;
+        border: 0px;
+        margin: 0px:
+    }
+    #intro {
+        color: black;
+        text-align: center;
+        }
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+   
+}
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+body{
+	/*background-image: url("../images/snowboard.jpg");*/
+	/*background-size: cover;*/
+	font-family: 'Lato', sans-serif;
+	color: black;
+	/*width: 250 px;*/
+
+}
+
+	
+ul{
+	width: 250px;
+	list-style-type: lower-alpha;
+}
+
+
